@@ -11,6 +11,7 @@ files = filedialog.askopenfilenames(initialdir="/",\
 
                                                             # 파일 리스트의 길이
 
+
 result    = pd.DataFrame()
 
 # -------------------------------------------------------------------------- #
